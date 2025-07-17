@@ -1,17 +1,12 @@
-# Alon Friedman
-Welcome to my personal portfolio! 
-I am a full stack student.
- 
-## About Me
-My name is Alon Friedman, a web development student. From a young age I was interested in technology,
-design and programming, and today I invest my time in learning and developing projects that combine clean design with a quality user experience.
-Beyond the basics of website building, I like to incorporate creativity into every project.
-That I approach – whether it is through choosing colors, arranging elements, or building a convenient, accessible and user-friendly interface.
-This site was built from scratch and reflects my current abilities. Currently I am still studying for a FullStack professional degree, I aim high and look forward to the future in the field.
- 
-## Skills
-- HTML, CSS, JAVASCRIPT
-- GitHub & Git
- 
-## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/alon-fridman-16a917352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) or [GitHub](https://github.com/Alon03f).
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
